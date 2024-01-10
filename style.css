@@ -22,3 +22,11 @@ h1 {
 .bir{
     background-color: bisque;
 }
+div{
+    padding: 40px;
+    margin: 20px;
+   background-color: aqua;
+}
+span{
+    background-color: yellow;
+}
